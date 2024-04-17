@@ -30,6 +30,8 @@ Go to this link
 https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F65ee312fcb938647babc052c&nextHash=%23metrics%2FreplicaSet%2F65ee315c2b40605562d9b0f4%2Fexplorer%2Ftest%2Fmessages%2Ffind&signedOut=true
  
 And Login or sign up
+
+<img width="305" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/a5338bb3-df87-4d71-8e97-2d0892dcbddb">
   
 Now Click on New Project
 
