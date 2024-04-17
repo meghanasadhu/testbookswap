@@ -83,7 +83,7 @@ Give it any name and click next until you see your main console.
 
 Now click on Add App.
 
- 
+<img width="390" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/b6912b55-17d6-44d3-b5b0-2d95489be35b">
 
 Click on 3rd option named Web.
 Then navigate to Frontend folder of your code then go to src -> components -> config -> FirebaseConfig.js change the configuration.
