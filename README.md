@@ -31,7 +31,7 @@ Installation guide
  
 ● Clone the git repository
  
-        git clone ....(Add your link here)
+        git clone https://github.com/meghanasadhu/bookswap.git
  
 ● Navigate to the BookSwap directory
 ​cd /BookSwap
