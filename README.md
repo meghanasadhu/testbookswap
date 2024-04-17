@@ -36,8 +36,9 @@ And Login or sign up
 Now Click on New Project
 
 Then Click on Create
- 
 
+<img width="357" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/fc4eee9c-86f4-4eff-950f-37a3d8c5ba81">
+ 
 
 Select the Database to deploy in our case we have used Free one and then click on create Deployment.
 
