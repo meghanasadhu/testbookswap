@@ -22,9 +22,11 @@ BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, Rea
 
 **BookSwap Installation:**
 **Prerequisites**
-1. ADDING Code to Visual Studio Code
+**1. ADDING Code to Visual Studio Code**
+
 Configure all the code files in Visual Studio Code by clicking on open folder.
-2. MONGO DB Server creation 
+
+**2. MONGO DB Server creation**
 
 Go to this link 
 https://account.mongodb.com/account/login?n=https%3A%2F%2Fcloud.mongodb.com%2Fv2%2F65ee312fcb938647babc052c&nextHash=%23metrics%2FreplicaSet%2F65ee315c2b40605562d9b0f4%2Fexplorer%2Ftest%2Fmessages%2Ffind&signedOut=true
@@ -39,7 +41,6 @@ Then Click on Create
 
 <img width="357" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/fc4eee9c-86f4-4eff-950f-37a3d8c5ba81">
  
-
 Select the Database to deploy in our case we have used Free one and then click on create Deployment.
 
 <img width="359" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/fd36f7f9-3065-435c-85eb-5320a5a0f27d">
@@ -60,7 +61,7 @@ Now go to your code navigate to Backend folder and edit .env file if not present
 
 <img width="432" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/0d0e8092-878d-4e9d-9454-693d065b1946">
 
-3. ADDING Resend API:
+**3. ADDING Resend API:**
 
 Navigate to this URL: https://resend.com/docs/send-with-nextjs#4-try-it-yourself
 
@@ -72,8 +73,7 @@ Paste the API key in .env like below mentioned image.
 
 <img width="382" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/2fc120d9-4709-443d-ba01-97efca86d918">
  
-
-4. Adding Firebase Storage
+**4. Adding Firebase Storage**
 
 Navigate to https://console.firebase.google.com/u/0/
 
@@ -88,28 +88,29 @@ Now click on Add App.
 Click on 3rd option named Web.
 Then navigate to Frontend folder of your code then go to src -> components -> config -> FirebaseConfig.js change the configuration.
 
-5. Deployment guide to push the code in Github
-●	Clone the git repository
-             git clone https://github.com/meghanasadhu/bookswap.git
-●	Navigate to the BookSwap directory 
-	cd /BookSwap
-●	Navigate to FrontEnd and Backend directory and install dependencies	
-cd /FrontEnd  
-npm install
-cd ..
-cd /BackEnd
-npm install
-●	Navigate back to FrontEnd and run in both 
-                                                         npm run dev
+**5. Deployment guide to push the code in Github**
+
+Clone the git repository 
+                         git clone https://github.com/meghanasadhu/bookswap.git
+Navigate to the BookSwap directory 
+	                 cd /BookSwap
+Navigate to FrontEnd and Backend directory and install dependencies	
+                         cd /FrontEnd  
+                         npm install
+                         cd ..
+                         cd /BackEnd
+                         npm install
+Navigate back to FrontEnd and run in both 
+                         npm run dev
 
 
-6. Running application in local host:
+**6. Running application in local host:**
 Navigate to Fronend in VS code
-                npm run dev
-                o + click enter 
+                        npm run dev
+                        o + click enter 
 This will open our website page.
 
-BookSwap Usage
+**BookSwap Usage**
 BookSwap provides users with an easy connection for buyers and sellers:
 
 ●	Sellers: College students can easily list books for sale by providing details such as title, author, condition, and price.
