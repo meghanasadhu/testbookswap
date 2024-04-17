@@ -68,9 +68,9 @@ Click on API Keys and create an API key.
 
  <img width="278" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/61dfa828-3ef1-44f0-bb80-7e784f85a99c">
 
-
 Paste the API key in .env like below mentioned image.
 
+<img width="382" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/2fc120d9-4709-443d-ba01-97efca86d918">
  
 
 4. Adding Firebase Storage
