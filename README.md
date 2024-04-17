@@ -13,6 +13,11 @@ BookSwap aims at removing the middlemen involved in selling second-hand books
 
 **Architecture**
 BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, React, and Node.js. Additionally, it leverages real-time Firebase for storing images, providing a seamless and responsive user experience.
+
+
+<img width="452" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/02ec1e1f-fce6-4c23-b6a2-01230068e6cb">
+
+
  
 
 **BookSwap Installation:**
