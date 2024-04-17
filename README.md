@@ -58,7 +58,7 @@ And copy the URL.
 
 Now go to your code navigate to Backend folder and edit .env file if not present create one and add the below MONGODB_URI
 
- 
+<img width="432" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/0d0e8092-878d-4e9d-9454-693d065b1946">
 
 3. ADDING Resend API:
 
