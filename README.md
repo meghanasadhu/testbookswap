@@ -42,7 +42,7 @@ Then Click on Create
 
 Select the Database to deploy in our case we have used Free one and then click on create Deployment.
 
- 
+<img width="359" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/fd36f7f9-3065-435c-85eb-5320a5a0f27d">
 
 Now create Username and Password
  
