@@ -65,7 +65,9 @@ Now go to your code navigate to Backend folder and edit .env file if not present
 Navigate to this URL: https://resend.com/docs/send-with-nextjs#4-try-it-yourself
 
 Click on API Keys and create an API key.
- 
+
+ <img width="278" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/61dfa828-3ef1-44f0-bb80-7e784f85a99c">
+
 
 Paste the API key in .env like below mentioned image.
 
