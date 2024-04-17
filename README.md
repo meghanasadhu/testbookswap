@@ -21,8 +21,10 @@ BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, Rea
  
 
 **BookSwap Installation:**
+
 **Prerequisites**
-**1. ADDING Code to Visual Studio Code**
+
+**1. Adding Code to Visual Studio Code**
 
 Configure all the code files in Visual Studio Code by clicking on open folder.
 
@@ -61,7 +63,7 @@ Now go to your code navigate to Backend folder and edit .env file if not present
 
 <img width="432" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/0d0e8092-878d-4e9d-9454-693d065b1946">
 
-**3. ADDING Resend API:**
+**3. Adding Resend API:**
 
 Navigate to this URL: https://resend.com/docs/send-with-nextjs#4-try-it-yourself
 
@@ -91,30 +93,45 @@ Then navigate to Frontend folder of your code then go to src -> components -> co
 **5. Deployment guide to push the code in Github**
 
 Clone the git repository 
-                         git clone https://github.com/meghanasadhu/bookswap.git
+ git clone https://github.com/meghanasadhu/bookswap.git
+
 Navigate to the BookSwap directory 
-	                 cd /BookSwap
+	                 
+		         cd /BookSwap
+	   
 Navigate to FrontEnd and Backend directory and install dependencies	
-                         cd /FrontEnd  
-                         npm install
-                         cd ..
-                         cd /BackEnd
-                         npm install
+                        
+			 cd /FrontEnd  
+                         
+			 npm install
+                         
+			 cd ..
+                         
+			 cd /BackEnd
+                         
+			 npm install
+
 Navigate back to FrontEnd and run in both 
-                         npm run dev
+                         
+			 npm run dev
 
 
 **6. Running application in local host:**
+
 Navigate to Fronend in VS code
-                        npm run dev
-                        o + click enter 
+                        
+			npm run dev
+                      
+		        o + click enter 
+
 This will open our website page.
 
 **BookSwap Usage**
 BookSwap provides users with an easy connection for buyers and sellers:
 
-●	Sellers: College students can easily list books for sale by providing details such as title, author, condition, and price.
-●	Buyers: Young people looking for educational materials can review the list, view the content of the book and purchase it directly from the platform.
+●	_Sellers_: College students can easily list books for sale by providing details such as title, author, condition, and price.
+
+●	_Buyers_: Young people looking for educational materials can review the list, view the content of the book and purchase it directly from the platform.
 
 BookSwap simplifies the book exchange process by creating a community where students can save money by purchasing used books and earn extra money by selling books.
 
