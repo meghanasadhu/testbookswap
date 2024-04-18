@@ -59,9 +59,7 @@ Now click on first option that is Drivers.
 
 And copy the URL.
 
-Now go to your code navigate to Backend folder and edit .env file if not present create one and add the below MONGODB_URI
-
-<img width="432" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/0d0e8092-878d-4e9d-9454-693d065b1946">
+Now go to your code and navigate to Backend folder and edit .env file if not present create one and add the MONGODB_URI which we generated earlier.
 
 **3. Adding Resend API:**
 
@@ -71,9 +69,8 @@ Click on API Keys and create an API key.
 
  <img width="278" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/61dfa828-3ef1-44f0-bb80-7e784f85a99c">
 
-Paste the API key in .env like below mentioned image.
+Paste the API key in .env file in Backend folder
 
-<img width="382" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/2fc120d9-4709-443d-ba01-97efca86d918">
  
 **4. Adding Firebase Storage**
 
