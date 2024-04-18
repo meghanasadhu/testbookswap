@@ -118,7 +118,7 @@ Navigate back to FrontEnd and run in both
 
 **6. Running application in local host:**
 
-Navigate to Fronend in VS code
+Navigate to Frontend in VS code
                         
 			npm run dev
                       
