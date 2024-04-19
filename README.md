@@ -1,8 +1,8 @@
 **BookSwap: An Online Marketplace for College Students**
 
-[1.Introduction](#introduction)
-[2.Architecture](#architecture)
-[3.Installation](#bookswap-installation)
+[1.Introduction](#introduction)  
+[2.Architecture](#architecture)  
+[3.Installation](#bookswap-installation)  
 
 ### **Introduction**
 
@@ -21,7 +21,7 @@ BookSwap is built using the MERN stack, which comprises MongoDB, Express.js, Rea
 <img width="452" alt="image" src="https://github.com/meghanasadhu/bookswap/assets/158526030/02ec1e1f-fce6-4c23-b6a2-01230068e6cb">
 
 
-**BookSwap Installation:**
+### **BookSwap Installation:**
 
 **Prerequisites**
 
