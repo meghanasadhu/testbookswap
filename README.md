@@ -1,8 +1,10 @@
 **BookSwap: An Online Marketplace for College Students**
 
 [1.Introduction](#introduction)
+[2.Architecture](#architecture)
+[3.Installation](#bookswap-installation)
 
-#**Introduction**
+**Introduction**
 
 **What is BookSwap?**
 BookSwap is an online marketplace where any college student can list their books so that juniors can buy those books at a much cheaper price.
