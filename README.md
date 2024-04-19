@@ -1,6 +1,7 @@
 **BookSwap: An Online Marketplace for College Students**
 
-[1.Introduction](#Introduction)
+[1.Introduction](#introduction)
+
 #**Introduction**
 
 **What is BookSwap?**
